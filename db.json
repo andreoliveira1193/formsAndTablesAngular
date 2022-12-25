@@ -1,0 +1,50 @@
+{
+  "productList": [
+    {
+      "productName": "Carrot",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 18,
+      "comment": "Teste",
+      "date": "2022-12-24T03:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Apple",
+      "category": "Fruis",
+      "freshness": "Brand New",
+      "price": 12,
+      "comment": "Teste",
+      "date": "2022-12-25T03:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Teste",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 111111,
+      "comment": "teste",
+      "date": "2022-12-25T03:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "teste",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 3242143,
+      "comment": "teste",
+      "date": "2022-12-22T03:00:00.000Z",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
